@@ -1,0 +1,7 @@
+/* Add this CSS to your stylesheets or in a style block in your component */
+.input-container {
+    display: flex; /* Use flexbox to display children in a row */
+    align-items: center; /* Align items vertically in the center */
+    gap: 10px; /* Add spacing between input elements */
+  }
+  
